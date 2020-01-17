@@ -2,7 +2,7 @@
 A group of python users and enthusiasts to improve upon their python skill-sets as a community. This is an academic non-profit organzation.
 
 # Who could be members? 
-This will involve:UWM personnel (both current and past)  
+Members could be UWM personnel (both current and past).    
 + students 
 + post-docs
 + faculty-members  
