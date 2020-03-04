@@ -14,3 +14,8 @@ Members could be UWM personnel (both current and past).
 
 # Inspiration for naming it **`U.Py`**
 We call it U.Py because it is made for UWM personnel and also as it sounds like _You.Py_, inspiring people to code in python.
+
+
+
+---
+&copy; U.Py 2020
