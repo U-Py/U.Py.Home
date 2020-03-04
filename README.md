@@ -1,3 +1,8 @@
+<figure>
+  <img src="./docs/static/images/U-Py_logo.PNG" />  
+</figure>
+
+
 # U.Py.Home
 A group of python users and enthusiasts to improve upon their python, computing and data-science skill-sets as a community. This is an academic non-profit organzation.
 
