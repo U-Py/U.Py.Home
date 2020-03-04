@@ -4,7 +4,7 @@
 
 
 # U.Py Home
-A group of python users and enthusiasts to improve upon their python, computing and data-science skill-sets as a community. This is an academic non-profit organzation.
+A group of python users and enthusiasts to improve upon their python, computing and data-science skill-sets as a community. This is an academic non-profit organization.
 
 # Who could be members? 
 Members could be UWM personnel (both current and past).    
